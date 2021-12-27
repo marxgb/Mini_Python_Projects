@@ -1,5 +1,5 @@
 # Mini_Python_Projects
-Mini Project Series
+
 
 A small collection of simple python projects
 Includes:
