@@ -1,0 +1,5 @@
+12/27/2021 02:19:29 INFO: Logging activity for DiceRoll...
+12/27/2021 02:19:29 INFO: See how many side is the die
+12/27/2021 02:19:31 INFO: See how many die is going to be rolled
+12/27/2021 02:19:35 DEBUG: Starting new HTTP connection (1): api.openweathermap.org:80
+12/27/2021 02:19:35 DEBUG: http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=e73cc6d6927a19e138e5d9f3349ebca9&q=London HTTP/1.1" 200 482
