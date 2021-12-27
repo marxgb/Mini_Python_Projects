@@ -1,4 +1,4 @@
-# Mini_Python_Projects
+# Mini Python Projects
 
 
 A small collection of simple python projects
